@@ -9,5 +9,5 @@ package modelo.dto;
  * @author x1920
  */
 public class NewClass {
-    
+    //clase nueva 
 }
